@@ -96,6 +96,8 @@
     <!--Volume keys -->
     <string name="volume_rocker_wake_title">Volume rocker wake</string>
     <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
+    <string name="volume_answer_call_title">Answer call</string>
+    <string name="volume_answer_call_summary">Answer incoming calls by pressing the volume buttons</string>
     
     <!-- Network Traffic -->
     <string name="traffic_title">Traffic indicators</string>
